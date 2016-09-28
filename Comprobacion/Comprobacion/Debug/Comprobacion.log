@@ -1,4 +1,4 @@
-﻿Compilación iniciada a las 22/09/2016 10:53:22 p. m..
+﻿Compilación iniciada a las 28/09/2016 12:46:23 p. m..
      1>Proyecto "C:\Users\Jordy Gonzalez\Desktop\AuxCompi\Parte teorica\C3D-Stack\Clase1y2\Comprobacion\Comprobacion\Comprobacion.vcxproj" en el nodo 2 (Build destinos).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Comprobacion.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Comprobacion.cpp
@@ -11,4 +11,4 @@
 
 Compilación correcta.
 
-Tiempo transcurrido 00:00:00.55
+Tiempo transcurrido 00:00:00.97
